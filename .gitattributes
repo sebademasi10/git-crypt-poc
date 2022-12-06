@@ -1,0 +1,2 @@
+# Add .key files to git-crypt
+*.key filter=git-crypt diff=git-crypt
